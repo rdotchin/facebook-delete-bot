@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rdotchin/facebook-delete-bot/issues"
   },
-  "homepage": "https://github.com/rdotchin/facebook-delete-bot#readme"
+  "homepage": "https://github.com/rdotchin/facebook-delete-bot#readme",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
 }
