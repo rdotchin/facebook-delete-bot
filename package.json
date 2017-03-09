@@ -1,0 +1,19 @@
+{
+  "name": "facebook-delete-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdotchin/facebook-delete-bot.git"
+  },
+  "author": "Richard Dotchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdotchin/facebook-delete-bot/issues"
+  },
+  "homepage": "https://github.com/rdotchin/facebook-delete-bot#readme"
+}
